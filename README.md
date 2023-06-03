@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [spotlify](https://github.com/AkomaMathaino/spotlify)
 
-- 👨‍💻 All of my projects are available at [https://github.com/AkomaMathaino](https://github.com/AkomaMathaino)
-
 - 📫 How to reach me **dias.joshua7@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
