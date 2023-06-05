@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua Dias</h1>
-<h3 align="center">A passionate web developer from Oregon</h3>
+<h3 align="center">A junior web developer from Oregon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akomamathaino&label=Profile%20views&color=0e75b6&style=flat" alt="akomamathaino" /> </p>
 
