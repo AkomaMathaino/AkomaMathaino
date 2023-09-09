@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akomamathaino&label=Profile%20views&color=0e75b6&style=flat" alt="akomamathaino" /> </p>
 
-- 🔭 I’m currently working on [spotlify](https://github.com/AkomaMathaino/spotlify)
+- 🔭 I’m currently working on [FitnessApp](https://github.com/AkomaMathaino/FitnessApp)
 
 - 📫 How to reach me **dias.joshua7@yahoo.com**
 
